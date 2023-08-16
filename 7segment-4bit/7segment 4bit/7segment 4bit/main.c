@@ -2,7 +2,7 @@
  * 7segment 4bit.c
  *
  * Created: 8/16/2023 4:49:55 PM
- * Author : user
+ * Author : MOHAMED
  */ 
 
 #include <avr/io.h>
